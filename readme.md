@@ -2,6 +2,8 @@ Archive of the model portfolios on http://canadiancouchpotato.com/model-portfoli
 
 # Canadian Couch Potato Model Portfolios
 
+Source: http://canadiancouchpotato.com/model-portfolios-2/
+
 The following model portfolios can help you get started as a Couch Potato investor. Each option includes three to five different asset mixes: you should choose the one best suited to your [risk profile](http://canadiancouchpotato.com/2010/11/10/ready-willing-and-able-to-take-risk/). Conservative investors should allocate more to bonds and less to stocks, while aggressive investors can do the opposite.
 
 GCPThe three options below present a trade-off between cost and convenience. The [Tangerine Investment Funds](http://www.tangerine.ca/en/investing/investment-funds/index.html) offer “one-stop shopping” with a balanced fund that requires virtually no maintenance. The [TD’s e-Series funds](http://www.tdcanadatrust.com/products-services/investing/mutual-funds/td-eseries-funds.jsp) are significantly cheaper and allow you to customize your portfolio’s asset mix, though you will need to build an rebalance the portfolio yourself. ETF portfolios have much lower management fees and far more flexibility than the mutual fund options, but they are the most difficult to maintain—and if you are paying trading commissions they may end up being more expensive, too.
@@ -64,6 +66,8 @@ For other ETF model portfolios, see Justin Bender’s blog, [Canadian Portfolio 
 
 # Canadian Portfolio Manager Model ETF Portfolios
 
+Source: https://www.canadianportfoliomanagerblog.com/model-etf-portfolios/
+
 Canadian investors may find it difficult to find an advisor who advocates index investing. The good news is there are many low-cost, broadly diversified and tax-efficient ETFs available to DIY investors. The bad news is there are now too many choices
 
 To make this decision easier for newbie investors, I’ve included a step-by-step process below, along with sample portfolios with various asset mixes. Since a number of these ETFs have limited performance data, I’ve calculated their hypothetical past performance using index returns minus the current fees (the methodology is available [here](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolio-Return-Methodology-2017-12-31.pdf)).
@@ -72,4 +76,4 @@ To make this decision easier for newbie investors, I’ve included a step-by-ste
 * [**RRSP and RIFF**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-RRSP-RRIF-2017-12-31.pdf)
 * [**Taxable**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-Taxable-2017-12-31.pdf)
 
-***Note: For an even simpler 3-ETF portfolio, replace VUN, XEF and XEC with the iShares Core MSCI All Country World ex Canada Index ETF (XAW).*
+**Note: For an even simpler 3-ETF portfolio, replace VUN, XEF and XEC with the iShares Core MSCI All Country World ex Canada Index ETF (XAW).*
