@@ -1,4 +1,4 @@
-Archive of the model portfolios on http://canadiancouchpotato.com/
+Archive of the model portfolios on http://canadiancouchpotato.com/model-portfolios-2/ and https://www.canadianportfoliomanagerblog.com/model-etf-portfolios/
 
 # Canadian Couch Potato Model Portfolios
 
@@ -61,3 +61,15 @@ Consider ETFs if:
 [**Model Portfolios Option 3 — ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-TD-e-Series-2017.pdf)
 
 For other ETF model portfolios, see Justin Bender’s blog, [Canadian Portfolio Manager](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/).
+
+# Canadian Portfolio Manager Model ETF Portfolios
+
+Canadian investors may find it difficult to find an advisor who advocates index investing. The good news is there are many low-cost, broadly diversified and tax-efficient ETFs available to DIY investors. The bad news is there are now too many choices
+
+To make this decision easier for newbie investors, I’ve included a step-by-step process below, along with sample portfolios with various asset mixes. Since a number of these ETFs have limited performance data, I’ve calculated their hypothetical past performance using index returns minus the current fees (the methodology is available [here](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolio-Return-Methodology-2017-12-31.pdf)).
+
+* [**TFSA and RESP**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-TFSA-RESP-RDSP-2017-12-31.pdf)
+* [**RRSP and RIFF**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-RRSP-RRIF-2017-12-31.pdf)
+* [**Taxable**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-Taxable-2017-12-31.pdf)
+
+***Note: For an even simpler 3-ETF portfolio, replace VUN, XEF and XEC with the iShares Core MSCI All Country World ex Canada Index ETF (XAW).*
