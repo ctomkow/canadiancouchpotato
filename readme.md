@@ -1,8 +1,10 @@
 Archive of the model portfolios on https://canadiancouchpotato.com/model-portfolios/ and https://www.canadianportfoliomanagerblog.com/model-etf-portfolios/
 
-**Archive can be found [here](https://gitlab.com/andryou/canadiancouchpotato/archive)**
+**Archive can be found [here](https://gitlab.com/andryou/canadiancouchpotato/tree/master/archive)**
 
-# Canadian Couch Potato Model Portfolios (updated December 31, 2017)
+# Canadian Couch Potato Model Portfolios
+
+**Updated December 31, 2017**
 
 Source: https://canadiancouchpotato.com/model-portfolios/
 
@@ -60,7 +62,9 @@ Consider ETFs if:
 
 For other ETF model portfolios, see Justin Bender’s blog, [Canadian Portfolio Manager](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/).
 
-# Canadian Portfolio Manager Model ETF Portfolios (updated November 30, 2018)
+# Canadian Portfolio Manager Model ETF Portfolios
+
+**Updated November 30, 2018**
 
 Source: https://www.canadianportfoliomanagerblog.com/model-etf-portfolios/
 
