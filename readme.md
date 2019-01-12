@@ -4,7 +4,7 @@ Archive of the model portfolios on https://canadiancouchpotato.com/model-portfol
 
 # Canadian Couch Potato Model Portfolios
 
-**Updated December 31, 2017**
+**Updated December 31, 2018**
 
 Source: https://canadiancouchpotato.com/model-portfolios/
 
@@ -18,11 +18,11 @@ For guidance on choosing among the options see my [Ultimate Couch Potato Portfol
 
 The model portfolio PDFs include 20-year performance records (from 1998 through 2017), including the lowest 12-month return during that period. Pay special attention to this number and make sure you can stomach a loss that large: the surest way to blow up your investment plan is to sell in a panic during a bear market. Note that the data include actual fund returns when available and index returns (minus fees) when necessary. *Past performance is no guarantee of future results.*
 
-## [Option 1: Tangerine](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-Tangerine-2017.pdf)
+## [Option 1: Tangerine](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-Tangerine-2018.pdf)
 
 The simplest way to get started with indexing is with one of the [Tangerine Investment Funds](http://www.tangerine.ca/en/investing/investment-funds/index.html), which are available online directly through [Tangerine](http://www.tangerine.ca/en/index.html). There are no account fees, no minimum account size and once you’re set up the funds are virtually maintenance-free.
 
-Consider the Tangerine funds if:
+*Consider the Tangerine funds if:*
 
 * you’re looking for a simple solution for an RRSP or TFSA
 * your portfolio is relatively small (under $50,000 or so)
@@ -32,11 +32,11 @@ Consider the Tangerine funds if:
 
 For complete information on getting started with Tangerine see our white paper, [The One-Fund Solution](http://canadiancouchpotato.com/2013/09/12/the-one-fund-solution/).
 
-## [Option 2: TD e-Series Funds](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-ETFs-2017.pdf)
+## [Option 2: TD e-Series Funds](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-ETFs-2018.pdf)
 
 [TD’s e-Series funds](http://www.tdcanadatrust.com/products-services/investing/mutual-funds/td-eseries-funds.jsp) have lower fees than the Tangerine funds, and you can customize your portfolio with any asset allocation. They are an ideal alternative to ETFs for investors who want more convenience at only slightly higher cost. Unfortunately, the e-Series funds are only available through an [online account](http://www.tdcanadatrust.com/mutualfunds/tdeseriesfunds/new_acct.jsp) with TD Canada Trust or (preferably) a [TD Direct Investing](https://www.td.com/ca/products-services/investing-at-td/index.jsp) discount brokerage account.
 
-Consider the TD e-Series funds if:
+*Consider the TD e-Series funds if:*
 
 * your household accounts with TD total at least $15,000 ([annual fees](https://www.tdwaterhouse.ca/document/PDF/forms/521778.pdf) may apply on smaller RRSP balances, though these can be avoided if you set up automatic contributions)
 * you like the [convenience of mutual funds](http://canadiancouchpotato.com/2013/02/19/why-index-mutual-funds-still-have-a-place/) but want more flexibility than a balanced fund can offer
@@ -45,13 +45,15 @@ Consider the TD e-Series funds if:
 * you’re usually unable to make trades when the stock exchanges are open
 * you are willing to [rebalance](http://canadiancouchpotato.com/2011/02/22/why-rebalance-your-portfolio/) your portfolio every year or so
 
-## [Option 3: ETFs](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-TD-e-Series-2017.pdf)
+## [Option 3: ETFs](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-TD-e-Series-2018.pdf)
 
-Exchange-traded funds offer extremely low management fees and much greater variety than index mutual funds. However, most brokerages charge a commission of about $10 when you buy or sell, which makes them unsuitable for investors who make frequent small trades. A small number of brokerages (notably Questrade) offer commission-free ETFs which avoids this problem. However, using ETFs requires you to be comfortable trading on a stock exchange, which is often a challenge for new investors. That’s why it’s important to consider more than just management fees when making the choice between [index mutual funds and ETFs](http://canadiancouchpotato.com/2013/02/19/why-index-mutual-funds-still-have-a-place/).
+Exchange-traded funds offer extremely low management fees and much greater variety than index mutual funds. However, most brokerages charge a commission of about $10 when you buy or sell, which makes them unsuitable for investors who make frequent small trades. A small number of brokerages (notably Questrade) offer commission-free ETFs which avoids this problem.
+
+Using ETFs requires you to be comfortable trading on a stock exchange, which is often a challenge for new investors. That’s why it’s important to consider more than just management fees when making the choice between [index mutual funds and ETFs](http://canadiancouchpotato.com/2013/02/19/why-index-mutual-funds-still-have-a-place/).
 
 The three largest ETF providers in Canada—[iShares](http://www.blackrock.com/ca/ishares), [BMO](http://www.etfs.bmo.com/) and [Vanguard](https://www.vanguardcanada.ca/individual/home.htm)—all have a range of low-cost products that are suitable for building Couch Potato portfolios. The choices can be dizzying, so we suggest a simple portfolio that will allow you to get extremely broad diversification with just three funds.
 
-Consider ETFs if:
+*Consider ETFs if:*
 
 * your portfolio is at least $50,000 or so (though zero-commission offers make ETFs cost-effective with smaller portfolios)
 * you contribute infrequent lump sums rather than small monthly amounts
@@ -59,8 +61,31 @@ Consider ETFs if:
 * you have the discipline to keep trading to a minimum
 * you have multiple accounts (RRSPs, TFSAs, non-registered) and want the greatest flexibility when it comes to tax-efficiency
 * you are willing to [rebalance](http://canadiancouchpotato.com/2011/02/22/why-rebalance-your-portfolio/) your portfolio every year or so
+* your target mix of stocks and bonds is not available through one of the asset allocation ETFs in Option 4 (below)
 
-For other ETF model portfolios, see Justin Bender’s blog, [Canadian Portfolio Manager](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/).
+## Option 4: Asset Allocation ETFs
+
+If you’re looking to combine the low cost of ETFs with the simplicity of a balanced mutual fund, consider the asset allocation ETFs offered by Vanguard and iShares. These “one-fund solutions” hold several underlying stock and bond ETFs so you can invest in a globally diversified portfolio with a single trade.
+
+This option is less flexible and slightly more expensive than the individual ETFs in Option 3, but much easier to manage, since all the rebalancing is done for you. They also have significantly lower fees than the index mutual funds in Options 1 and 2. (The Vanguard ETFs have a management fee of 0.22%, while the iShares funds come in at 0.18%.)
+
+The following options are available. For information on these ETFs, see my blog posts on the [Vanguard](https://canadiancouchpotato.com/2018/02/05/vanguards-one-fund-solution/) and [iShares](https://canadiancouchpotato.com/2018/12/24/ishares-launches-all-in-one-etf-portfolios/) families.
+
+| Asset mix  | Vanguard | iShares |
+| ------------- | ------------- | ------------- |
+| 60% bonds / 40% stocks  | [Vanguard Conservative ETF Portfolio (VCNS)](https://www.vanguardcanada.ca/individual/indv/en/product.html#/fundDetail/etf/portId=9577/assetCode=balanced/?overview) | - |
+| 40% bonds / 60% stocks  | [Vanguard Balanced ETF Portfolio (VBAL)](https://www.vanguardcanada.ca/individual/indv/en/product.html#/fundDetail/etf/portId=9578/assetCode=balanced/?overview) | [iShares Core Balanced ETF Portfolio (XBAL)](https://www.blackrock.com/ca/individual/en/products/239449/ishares-balanced-income-coreportfoliotm-fund) |
+| 20% bonds / 80% stocks  | [Vanguard Growth ETF Portfolio (VGRO)](https://www.vanguardcanada.ca/individual/indv/en/product.html#/fundDetail/etf/portId=9579/assetCode=balanced/?overview) | [iShares Core Growth ETF Portfolio (XGRO)](https://www.blackrock.com/ca/individual/en/products/239447/ishares-balanced-growth-coreportfoliotm-fund) |
+
+*Consider asset allocation ETFs if:*
+
+* you are comfortable using a discount brokerage to trade on stock exchanges during normal hours
+* you contribute amounts that are large enough to make efficient trades (if you are paying commissions)
+* you value simplicity over tax optimization and are comfortable holding the same asset mix in all of your accounts
+* you prefer not to worry about rebalancing your portfolio and would like this done automatically
+* you like the idea of focusing on the overall return of your portfolio rather than worrying about the returns of the individual asset classes
+
+Justin Bender has backtested the returns of the Vanguard and iShares asset allocation ETFs on his [Canadian Portfolio Manager blog](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/).
 
 # Canadian Portfolio Manager Model ETF Portfolios
 
