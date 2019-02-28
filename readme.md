@@ -8,9 +8,9 @@ Archive of the model portfolios on https://canadiancouchpotato.com/model-portfol
 
 Source: https://canadiancouchpotato.com/model-portfolios/
 
-The following model portfolios can help you get started as a Couch Potato investor. Each option includes three to five different asset mixes: you should choose the one best suited to your [risk profile](http://canadiancouchpotato.com/2010/11/10/ready-willing-and-able-to-take-risk/). Conservative investors should allocate more to bonds and less to stocks, while aggressive investors can do the opposite.
+Each option includes three to five different asset mixes: you should choose the one best suited to your [risk profile](http://canadiancouchpotato.com/2010/11/10/ready-willing-and-able-to-take-risk/). Conservative investors should allocate more to bonds and less to stocks, while aggressive investors can do the opposite.
 
-GCPThe three options below present a trade-off between cost and convenience. The [Tangerine Investment Funds](http://www.tangerine.ca/en/investing/investment-funds/index.html) offer “one-stop shopping” with a balanced fund that requires virtually no maintenance. The [TD’s e-Series funds](http://www.tdcanadatrust.com/products-services/investing/mutual-funds/td-eseries-funds.jsp) are significantly cheaper and allow you to customize your portfolio’s asset mix, though you will need to build an rebalance the portfolio yourself. ETF portfolios have much lower management fees and far more flexibility than the mutual fund options, but they are the most difficult to maintain—and if you are paying trading commissions they may end up being more expensive, too.
+The three options below present a trade-off between cost and convenience. The [Tangerine Investment Funds](http://www.tangerine.ca/en/investing/investment-funds/index.html) offer “one-stop shopping” with a balanced fund that requires virtually no maintenance. The [TD’s e-Series funds](http://www.tdcanadatrust.com/products-services/investing/mutual-funds/td-eseries-funds.jsp) are significantly cheaper and allow you to customize your portfolio’s asset mix, though you will need to build and rebalance the portfolio yourself. ETF portfolios have much lower management fees and far more flexibility than the mutual fund options, but they are the most difficult to maintain—and if you are paying trading commissions they may end up being more expensive, too.
 
 Remember that on small portfolios the difference in annual fees may be modest in dollar terms. On a $50,000 portfolio, every 0.10% in fees works out to less than $1 a week. Costs are always important, but in the early stages your ability to save and invest with discipline is [much more important](http://canadiancouchpotato.com/2012/03/05/some-advice-for-new-potatoes/) than keeping your costs to an absolute minimum.
 
@@ -79,17 +79,17 @@ The following options are available. For information on these ETFs, see my blog 
 
 *Consider asset allocation ETFs if:*
 
-* you are comfortable using a discount brokerage to trade on stock exchanges during normal hours
+* you are comfortable using a discount brokerage to trade on stock exchanges [during normal hours](https://canadiancouchpotato.com/2013/06/17/etf-investors-avoid-the-after-hours-club/)
 * you contribute amounts that are large enough to make efficient trades (if you are paying commissions)
 * you value simplicity over tax optimization and are comfortable holding the same asset mix in all of your accounts
-* you prefer not to worry about rebalancing your portfolio and would like this done automatically
+* you prefer not to worry about [rebalancing](https://canadiancouchpotato.com/2011/02/22/why-rebalance-your-portfolio/) your portfolio and would like this done automatically
 * you like the idea of focusing on the overall return of your portfolio rather than worrying about the returns of the individual asset classes
 
 Justin Bender has backtested the returns of the Vanguard and iShares asset allocation ETFs on his [Canadian Portfolio Manager blog](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/).
 
 # Canadian Portfolio Manager Model ETF Portfolios
 
-**Updated November 30, 2018**
+**Updated January 31, 2019**
 
 Source: https://www.canadianportfoliomanagerblog.com/model-etf-portfolios/
 
@@ -97,8 +97,8 @@ Canadian investors may find it difficult to find an advisor who advocates index 
 
 To make this decision easier for newbie investors, I’ve included a step-by-step process below, along with sample portfolios with various asset mixes. Since a number of these ETFs have limited performance data, I’ve calculated their hypothetical past performance using index returns minus the current fees (the methodology is available [here](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolio-Return-Methodology-2018-06-30.pdf)).
 
-* [**Model ETF Portfolios**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-3-or-5-ETF-Model-Portfolios-2018-11-30.pdf)
-* [**Asset Allocation ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-AA-ETF-Model-Portfolios-2018-11-30.pdf)
+* [**Model ETF Portfolios**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-3-or-5-ETF-Model-Portfolios-2018-12-31.pdf)
+* [**Asset Allocation ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Vanguard-AA-ETFs-2019-01-31.pdf)
 
 **Note: For an even simpler 3-ETF portfolio, replace VUN, XEF and XEC with the iShares Core MSCI All Country World ex Canada Index ETF (XAW).*
 
@@ -106,17 +106,17 @@ To make this decision easier for newbie investors, I’ve included a step-by-ste
 
 Source: https://www.canadianportfoliomanagerblog.com/calculators/
 
-### [Modified Dietz Rate of Return Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Modified-Dietz-ROR-Calculator-2017.xlsx)
+### [Modified Dietz Rate of Return Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Modified-Dietz-ROR-Calculator-2019.xlsx)
 
 Starting in January 2017, Canadian investors may have difficulty comparing their performance to a suitable benchmark. This is because provincial securities regulators will require advisors to report money-weighted rates of return, which are less useful for benchmarking. By using an approximate time-weighted rate of return (such as the Modified Dietz method), investors will be better able to gauge their performance relative to index benchmarks.
 
-### [Money-Weighted Rate of Return Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Money-Weighted-ROR-Calculator-2017.xlsx)
+### [Foreign Withholding Tax Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Foreign-Withholding-Tax-Calculator-2019.xlsx)
 
-Even though most Canadian investors are now receiving performance figures by account, they’re still not being provided with their overall portfolio rate of return. This calculator will help you do just that.
+Estimating the tax drag on foreign dividends and interest received from your ETFs has always, well, been a drag. So toss that boring white paper aside and give this calculator a whirl instead.
 
-### [Benchmark Your Portfolio Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Benchmark-Your-Portfolio-2017.xlsx)
+### [Benchmark Your Portfolio Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Benchmark-Your-Portfolio-2014-2018.xlsx)
 
-Once you’ve calculated your portfolios modified dietz rate of return, benchmark it to a suitable portfolio of ETFs to see how you’re doing. Simply type in your target percentage for each ETF making sure they add up to 100% and the calculator will do the rest.
+Once you’ve calculated your portfolios modified dietz rate of return, benchmark it to a suitable weighted-average index portfolio for each index making sure they add up to 100% and the calculator will do the rest.
 
 ### [Rebalance Your Portfolio Calculator](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Rebalance-Your-Portfolio-2017.xlsx)
 
