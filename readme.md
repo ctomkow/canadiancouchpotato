@@ -55,7 +55,7 @@ You can build a globally diversified portfolio using four e-Series funds: one ea
 
 The e-Series funds were formerly available only to TD customers, but [since 2019](https://canadiancouchpotato.com/2019/08/30/td-e-series-funds-the-next-generation/) they’ve been offered through any online brokerage.
 
-* [**Model Portfolios Option 2 – TD e-Series Funds**](CCP-Model-Portfolios-TD-e-Series-2019.pdf)
+* [**Model Portfolios Option 2 – TD e-Series Funds**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CCP-Model-Portfolios-TD-e-Series-2019.pdf)
 
 # Canadian Portfolio Manager Model ETF Portfolios
 
@@ -71,13 +71,13 @@ However, if you’re a more experienced investor with a larger portfolio, you ma
 
 ## Light
 
-* [**VANGUARD ASSET ALLOCATION ETFS**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-Vanguard-2019-12-31-Light.pdf)
-* [**ISHARES ASSET ALLOCATION ETFS**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-iShares-2019-12-31-Light.pdf)
+* [**Vanguard Asset Allocation ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-Vanguard-2019-12-31-Light.pdf)
+* [**iShares Asset Allocation ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-iShares-2019-12-31-Light.pdf)
 
 ## Ridiculous
 
-* [**VANGUARD ASSET ALLOCATION ETFS**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-Vanguard-2019-12-31-Ridiculous.pdf)
-* [**ISHARES ASSET ALLOCATION ETFS**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-iShares-2019-12-31-Ridiculous.pdf)
+* [**Vanguard Asset Allocation ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-Vanguard-2019-12-31-Ridiculous.pdf)
+* [**iShares Asset Allocation ETFs**](https://gitlab.com/andryou/canadiancouchpotato/raw/master/CPM-Model-ETF-Portfolios-iShares-2019-12-31-Ridiculous.pdf)
 
 ## Ludicrous
 
